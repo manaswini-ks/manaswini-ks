@@ -1,0 +1,4 @@
+-  Hi, I’m @manaswini-ks
+-  I’m interested in exploring new things in the field of computers as of now
+-  I’m currently in the process of learning how to contribute to open source organizations, and how it works
+-  How to reaach me- Here's my mail-manaswinikavali@gmail.com
