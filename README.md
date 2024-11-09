@@ -17,8 +17,6 @@
 
     
 
-  [![An image of @manaswiniks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manaswiniks)](https://holopin.io/@manaswiniks)  </a>
-  </html>
    
   
 </div>
