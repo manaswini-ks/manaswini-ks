@@ -9,7 +9,7 @@
 
 ---
 
-> 💡 Passionate about building scalable backend systems, AI-powered applications, and automation tools — with hands-on experience in full-stack development, system orchestration, deep learning, and real-time data processing.
+💡 Passionate about building scalable backend systems, AI-powered applications, and automation tools — with hands-on experience in full-stack development, system orchestration, deep learning, and real-time data processing.
 
 </div>
 
