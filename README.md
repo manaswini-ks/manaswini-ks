@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 💫 Manaswini Simhadri Kavali
 
@@ -10,10 +10,10 @@
 
 ## 🏢 Industry Experience
 
-- **Software Engineering Intern** — *Cisco Systems India*  
+**Software Engineering Intern** — *Cisco Systems India*  
   🗓️ May 2025 – July 2025 · 📍 Bengaluru, India
 
-- **Research Project Intern** — *Samsung Research Institute*  
+ **Research Project Intern** — *Samsung Research Institute*  
   🗓️ Mar 2024 – Oct 2024 · 📍 Bengaluru, India
 
 </div>
