@@ -3,13 +3,18 @@
 # 💫 Manaswini Simhadri Kavali
 
 💻 Final Year Computer Science Student @ RV College of Engineering  
-🔧 Experienced in building full-stack web platforms, automation tools, and deep learning applications  
-⚙️ Skilled in Python, C++, JavaScript, Django, Flask, React, PostgreSQL, MongoDB, Docker, and PyTorch  
+💡 Passionate about building scalable backend systems, AI-powered applications, and automation tools — with hands-on experience in full-stack development, system orchestration, deep learning, and real-time data processing.
 📍 Bengaluru, India | 📧 manaswiniks@outlook.com  
 
 ---
 
-💡 Passionate about building scalable backend systems, AI-powered applications, and automation tools — with hands-on experience in full-stack development, system orchestration, deep learning, and real-time data processing.
+## 🏢 Industry Experience
+
+- **Software Engineering Intern** — *Cisco Systems India*  
+  🗓️ May 2025 – July 2025 · 📍 Bengaluru, India
+
+- **Research Project Intern** — *Samsung Research Institute*  
+  🗓️ Mar 2024 – Oct 2024 · 📍 Bengaluru, India
 
 </div>
 
