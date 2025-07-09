@@ -8,7 +8,6 @@
 
 - 📍 Bengaluru, India | 📧 manaswiniks@outlook.com  
 
----
 
 ## 🏢 Industry Experience
 
