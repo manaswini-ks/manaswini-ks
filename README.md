@@ -11,7 +11,10 @@
 
 ## 🏢 Industry Experience
 
-**Software Engineering Intern** — *Cisco Systems India*  
+**Software Engineering Intern** — *Intuit*  
+  🗓️ Jan 2026 – July 2026 · 📍 Bengaluru, India
+
+**Software Engineering Intern** — *Cisco*  
   🗓️ May 2025 – July 2025 · 📍 Bengaluru, India
 
  **Research Project Intern** — *Samsung Research Institute*  
