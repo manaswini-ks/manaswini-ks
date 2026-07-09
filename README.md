@@ -2,7 +2,7 @@
 
 # 💫 Manaswini Simhadri Kavali
 
-- 💻 Final Year Computer Science Student @ RV College of Engineering  
+- 💻 Computer Science Graduate from RV College of Engineering  
 
 - 💡 Passionate about building scalable backend systems, AI-powered applications, and automation tools — with hands-on experience in full-stack development, system orchestration, deep learning, and real-time data processing.
 
